@@ -1,0 +1,5 @@
+name: MegaKilof
+version: 1.0
+main: me.megakilof.MegaKilof
+api-version: '1.21'
+author: Sebastian
